@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5885488379838d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "690a22c84eb7d2fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7170605e055ef1e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "851300fda49ca0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e0a9d8f4fb06e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109dabe4052c6457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "38cb8392d154e6da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f47a8b4e5d9dda4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8ab1d8fd1ce3ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1da768c35dc1b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c5120be982131f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73ce454b99bfca26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a1312946b99c3343",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3efc6780464e7fd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7170605e055ef1e1",
+  "lastOpenFiles": [
+    "files/Grep – Search for Text in Files.md",
+    "files/locate – Find Files by Name.md",
+    "exploits/Metasploit – Exploitation Framework.md",
+    "files/cd – Change Directory.md",
+    "payloads/PHP Webshell – Remote Command Execution.md",
+    "webpages/Upload File Page.md",
+    "ports/Port 80 – HTTP (Web Server).md",
+    "recon/Nmap – Port Scanning Tool.md",
+    "files/ls – List Files in a Directory.md",
+    "files/cat – View File Contents 🐈.md",
+    "recon/Gobuster – Directory & File Bruteforcer.md",
+    "webpages",
+    "payloads",
+    "exploits",
+    "ports/Port 23 - Telnet.md",
+    "ports/Port 22 - SSH (Secure Shell).md",
+    "ports/Port 21 - FTP (File Transfer Protocol).md",
+    "brute force/John the Ripper – Password Cracker.md",
+    "brute force/Hydra – Login Bruteforce.md",
+    "files/Strings – Find Human-Readable Text in Files.md",
+    "grep.md",
+    "Untitled.md",
+    "files",
+    "brute force",
+    "Untitled.canvas",
+    "Welcome.md",
+    "create a link.md",
+    "recon",
+    "ports"
+  ]
+}
