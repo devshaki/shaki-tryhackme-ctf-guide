@@ -19,4 +19,4 @@ by the ports and services you find you can keep diving and finding more info abo
 - [[Port 23 - Telnet]]
 - [[Port 21 - FTP (File Transfer Protocol)]]
 
-also by knowing versions of services we could look for exploits using [[Metasploit – Exploitation Framework]]
+also by knowing versions of services we could look for exploits using [[Metasploit – Exploitation Framework]] or [[SearchSploit - finding exploits]]
