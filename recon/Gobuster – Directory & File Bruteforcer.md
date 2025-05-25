@@ -7,7 +7,7 @@ gobuster dir -u http://<IP> -w /usr/share/wordlists/dirb/common.txt
 ```
 kali recommended wordlists:
 - `/usr/share/wordlists/dirb/common.txt` (fast and simple, works most of the times)
-- `/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt` (bigger)
+- `/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt` (bigger)
 
 specific usage
 ```bash
