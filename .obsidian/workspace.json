@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brute force/SQLmap - Automate SQL injection.md",
+                "file": "linux/sudo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLmap - Automate SQL injection"
+              "title": "sudo"
             }
           }
         ]
@@ -167,9 +167,12 @@
   },
   "active": "7170605e055ef1e1",
   "lastOpenFiles": [
+    "brute force/SQLmap - Automate SQL injection.md",
+    "linux/sudo.md",
+    "linux",
+    "Untitled.md",
     "Packet Manipulation/Burp Suite.md",
     "Packet Manipulation/Postman.md",
-    "brute force/SQLmap - Automate SQL injection.md",
     "ports/Port 22 - SSH (Secure Shell).md",
     "payloads/PHP Webshell – Remote Command Execution.md",
     "files/ls – List Files in a Directory.md",
@@ -195,11 +198,9 @@
     "brute force/Hydra – Login Bruteforce.md",
     "files/Strings – Find Human-Readable Text in Files.md",
     "grep.md",
-    "Untitled.md",
     "files",
     "brute force",
     "Welcome.md",
-    "create a link.md",
     "recon",
     "ports"
   ]
