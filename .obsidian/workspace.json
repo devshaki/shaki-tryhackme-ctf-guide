@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exploits/SearchSploit - finding exploits.md",
+                "file": "brute force/SQLmap - Automate SQL injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SearchSploit - finding exploits"
+              "title": "SQLmap - Automate SQL injection"
             }
           }
         ]
@@ -165,30 +165,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "109dabe4052c6457",
+  "active": "7170605e055ef1e1",
   "lastOpenFiles": [
-    "exploits/Metasploit – Exploitation Framework.md",
-    "exploits/SearchSploit - finding exploits.md",
     "Packet Manipulation/Burp Suite.md",
     "Packet Manipulation/Postman.md",
+    "brute force/SQLmap - Automate SQL injection.md",
+    "ports/Port 22 - SSH (Secure Shell).md",
+    "payloads/PHP Webshell – Remote Command Execution.md",
+    "files/ls – List Files in a Directory.md",
+    "webpages/Upload File Page.md",
+    "recon/Gobuster – Directory & File Bruteforcer.md",
+    "recon/Nmap – Port Scanning Tool.md",
+    "ports/Port 21 - FTP (File Transfer Protocol).md",
+    "ports/Port 23 - Telnet.md",
+    "ports/Port 80 – HTTP (Web Server).md",
+    "payloads/Untitled.md",
+    "exploits/SearchSploit - finding exploits.md",
+    "exploits/Metasploit – Exploitation Framework.md",
     "Packet Manipulation",
     "Untitled.canvas",
-    "ports/Port 22 - SSH (Secure Shell).md",
-    "recon/Nmap – Port Scanning Tool.md",
-    "webpages/Upload File Page.md",
     "files/Grep – Search for Text in Files.md",
     "files/locate – Find Files by Name.md",
     "files/cd – Change Directory.md",
-    "payloads/PHP Webshell – Remote Command Execution.md",
-    "ports/Port 80 – HTTP (Web Server).md",
-    "files/ls – List Files in a Directory.md",
     "files/cat – View File Contents 🐈.md",
-    "recon/Gobuster – Directory & File Bruteforcer.md",
     "webpages",
     "payloads",
     "exploits",
-    "ports/Port 23 - Telnet.md",
-    "ports/Port 21 - FTP (File Transfer Protocol).md",
     "brute force/John the Ripper – Password Cracker.md",
     "brute force/Hydra – Login Bruteforce.md",
     "files/Strings – Find Human-Readable Text in Files.md",
